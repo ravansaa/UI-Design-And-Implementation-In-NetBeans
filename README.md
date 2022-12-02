@@ -9,20 +9,20 @@ This Project is an upgrade from https://github.com/ma-mur/netbeans-crud-sederhan
 ### Penjelasan Program
 Ini adalah Program Pembelian tiket Pesawat
 
-Pertama Bentuk dari menu login
+### Pertama Bentuk dari menu login
 ![Gambar](img/1.png)
 
-Kedua Melakukan Registrasi
+### Kedua Melakukan Registrasi
 ![Gambar](img/2.png)
 
-Ketiga Melakukan login
+### Ketiga Melakukan login
 ![Gambar](img/3.png)
 
-KeEmpat Melakukan Input data dan menyimpanya
+### KeEmpat Melakukan Input data dan menyimpanya
 ![Gambar](img/4.png)
 
-Kelima Print Out dari Fungsi Jasper
+### Kelima Print Out dari Fungsi Jasper
 ![Gambar](img/5.png)
 
 ## Sekian Dan Terimakasih
-Jika file ingin di takedown silahkan hubungi saya
+Jika file ingin di takedown dari pembuat Tiket Kereta silahkan hubungi saya
